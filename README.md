@@ -42,7 +42,7 @@ The website content is written in **Italian**, while this README is in English f
 | Name | Role | GitHub |
 |------|------|--------|
 | **Malaka Gonawala** | Frontend Developer & Game Creator | [GitHub Profile](https://github.com/Malaka-Gonawala) |
-| **Hugo Batoon** | Cybersecurity Researcher & Content Writer | [GitHub Profile](https://github.com/hu9go) |
+| **Hugo Batoon** | Cybersecurity Researcher & Content Writer | [GitHub Profile](https://github.com/h9go) |
 
 ---
 
