@@ -3,15 +3,15 @@
 
 <p align="center">
 
-<a href="https://github.com/hu9go/ForTheRoot">
+<a href="https://github.com/h9go/ForTheRoot">
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/hu9go/ForTheRoot">
+<a href="https://github.com/h9go/ForTheRoot">
 <img src="https://img.shields.io/badge/Made%20With-HTML%20%7C%20CSS%20%7C%20JS-blue?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/hu9go/ForTheRoot">
+<a href="https://github.com/h9go/ForTheRoot">
 <img src="https://img.shields.io/badge/Project-School%20Assignment-orange?style=for-the-badge" />
 </a>
 
